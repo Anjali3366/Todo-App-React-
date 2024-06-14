@@ -2,7 +2,7 @@ function TodoItem({todoDate,todoName ,deleteBtn}){
     
     return(
 <>
-<div class="row my-row">
+<div className="row my-row">
           <div className="col-6">
            {todoName}
           </div>

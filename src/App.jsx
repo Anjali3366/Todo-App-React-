@@ -24,7 +24,7 @@ function App() {
 
   const handleNewItem = (itemName, itemDate) => {
     const newTodoItems = [...todoData, { name: itemName, date: itemDate }];
-    console.log("New item added : ", itemName, itemDate);
+  
     setTodoData(newTodoItems);
   };
 
