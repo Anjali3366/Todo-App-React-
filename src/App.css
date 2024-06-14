@@ -1,0 +1,16 @@
+
+
+input{
+    width: 100%;
+}
+.container-item{
+    text-align: left;
+}
+
+.my-row{
+    margin: 10px 5px;
+    margin-bottom: 15px;
+}
+.btn{
+    min-width: 80px;
+}

@@ -1,0 +1,10 @@
+.todoHeading{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#e006f0, #161416);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    
+    margin: 10px;
+    margin-bottom: 20px;
+}
